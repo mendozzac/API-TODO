@@ -2,7 +2,7 @@
   "tasks": [
     {
       "id": 1,
-      "name": "Sacar al perro",
+      "task": "Sacar al perro",
       "done": false
     }
   ]
